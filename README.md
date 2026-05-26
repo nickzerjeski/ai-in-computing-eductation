@@ -1,6 +1,6 @@
 # AI in Computing Education
 The goal of this project is to create an educational video which respects the
-Specifications and Assesment.
+Specifications and Assesment. The video should be a complement for the script.
 
 ## Specifications
 - 12-minute video seminar.
